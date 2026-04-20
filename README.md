@@ -125,3 +125,22 @@ This project helps in:
 
 
 ## 📁 Repository Structure
+Global-Economic-Analysis/
+│
+├── screenshots/
+│ ├── correlation.png
+│ ├── gdp_vs_population.png
+│ ├── growth_distribution.png
+│ ├── gdp_per_capita_growth.png
+│ ├── feature_importance.png
+│ └── dashboard.png
+│
+├── dataset
+├── notebook
+├── powerbi_dashboard.pbix
+└── README.md
+
+## 👩‍💻 Author
+**Afifa Kanchwala**
+
+## ⭐ If you like this project, give it a star!
