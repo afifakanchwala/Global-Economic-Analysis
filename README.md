@@ -66,7 +66,7 @@ The goal: **Transform raw data into actionable insights and build an interactive
 
 ### 📊 Feature Importance
 
-![Feature Importance](screenshots/feature_importance.png)
+![Feature Importance](screenshots/gdp_growth.png)
 
 - Population is key driver of GDP growth  
 - GDP per capita plays significant role  
